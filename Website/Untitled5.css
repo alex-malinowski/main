@@ -1,5 +1,33 @@
+
+.header {
+    
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.nav {
+    background-color: #f5c425;
+    overflow: hidden;
+
+}
+
+.nav a {
+    float:left;
+    display:block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+
 body {
 background-color: #e35e52;
 color: #4f1d38;
-font-family: "helvetica";
+font-family: "Tahoma";
 }
+
+
