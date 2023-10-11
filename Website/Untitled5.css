@@ -19,15 +19,22 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 21px;
     
     
 }
+
 
 body {
 background-color: #e35e52;
-color: #4f1d38;
+color: #3b040c;
 font-family: "Tahoma";
+font-size: 17px;
 }
 
+img {
+    
+    float: right;
+    padding: 25px;
+}
 
